@@ -1,4 +1,4 @@
-import Vehicle.Vehicle;
+import Vehicle.*;
 
 public class ServiceStation {
     public void check(Vehicle veh) {
